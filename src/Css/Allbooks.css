@@ -1,0 +1,28 @@
+.AllBooks .cards {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 2rem;
+    margin-bottom: 3rem;
+   
+}
+
+.AllBooks h1 {
+    width: 100%;
+    color: black;
+    font-weight: 700;
+    font-size: 3rem;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.AllBooks h1 img {
+    width: 100px;
+    mix-blend-mode: darken;
+}
