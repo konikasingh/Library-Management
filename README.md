@@ -40,7 +40,7 @@ Includes a link to return to the Home page.
 Installation
 
 Clone the repository:
-git clone https://github.com/Kuldeepkant26/Literary-Lounge.git
+git clone https://github.com/konikasingh/Library-Management
 
 Navigate to the project directory:
 cd librarySystem
